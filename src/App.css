@@ -1,0 +1,43 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 5px;
+}
+
+.letter{
+  width: 35px;
+  height: 35px;
+}
+
+#resetBtn {
+  height: 35px;
+  width: 70px;
+}
+
+.wordLetter {
+  font-size: 40px;
+  margin: 10px
+}
+
+#word {
+  text-align: center;
+  margin: 30px;
+}
+
+#btnContainer {
+  margin: 50px;
+  text-align: center;
+}
+
+#hp {
+  text-align: center;
+  font-size: 18px;
+}
+
+#keyboard {
+  text-align: center;
+}
